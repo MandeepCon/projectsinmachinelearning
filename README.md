@@ -1,8 +1,6 @@
 # NeuraPath — Projects in Machine Learning
 _AI-powered mock interview coach with resume parsing, career pathing, and personalized learning._
 
-> This README is designed to **meet the assignment rubric**: clear overview, setup, usage examples, organized repo, collaboration guidance, and Azure DevOps ↔ GitHub integration details.
-
 ---
 
 ## 🔎 Project Overview
